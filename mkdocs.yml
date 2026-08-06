@@ -1,0 +1,16 @@
+site_name: 凉拌愣头青的随笔
+site_description: 一个记录随笔、想法与生活的个人网站
+
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+
+nav:
+  - 主页: index.md
+  - 随笔:
+      - 随笔列表: course/index.md
+      - 示例随笔: course/example.md
+  - 友链: friends/index.md
+  - 关于: about/index.md
