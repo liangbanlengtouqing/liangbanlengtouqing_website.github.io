@@ -1,11 +1,12 @@
 # 友链
 
-交换友链，常来常往。
+其实只是当一个网址收藏夹。
 
 ## 我的友链
 
-- [示例友链一](https://example.com) — 这里是占位示例链接
-- [示例友链二](https://example.org) — 这里是另一条占位示例链接
+- [浙大化学系网站](http://www.chem.zju.edu.cn/) 
+- [云南师大附中](https://ynsdfz.ynnu.edu.cn/) 
+- [示例友链](https://example.org) — 这里是一条占位示例链接
 
 ## 如何交换友链
 
